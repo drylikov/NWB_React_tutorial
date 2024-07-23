@@ -1,4 +1,4 @@
-# nwb-react-tutorial
+# NWB React tutorial
 
 An implementation of the comment box from [the React tutorial](https://facebook.github.io/react/docs/tutorial.html) using nwb's middleware in the tutorial's API server to take advantage of nwb's default development setup, including:
 
